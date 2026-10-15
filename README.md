@@ -34,7 +34,7 @@ vibecoding/   ai-tools/   new-tech/   experiments/   side-projects/
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,git,github,vscode&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=py,lua,github,vscode&theme=dark" alt="stack" />
 </p>
 
 <br>
