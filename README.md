@@ -21,8 +21,6 @@ $ neofetch
 paitondev@github
 ----------------
 OS:        Vibes 1.0
-Role:      Vibe Coder
-Shell:     curiosity
 Editor:    VS Code
 Language:  Python
 Mood:      в потоке
