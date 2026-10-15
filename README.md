@@ -28,7 +28,7 @@ $ _
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,git,github,vscode&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode&theme=dark" alt="stack" />
 </p>
 
 <br>
