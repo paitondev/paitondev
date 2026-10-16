@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode, py&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,py&theme=dark" alt="stack" />
 </p>
 
 <br>
