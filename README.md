@@ -37,8 +37,6 @@ vibecoding/   ai-tools/   new-tech/   experiments/   side-projects/
 </p>
 
 <br>
-$ _
-```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b1233,100:0d1117&height=60&section=footer" alt="footer" />
