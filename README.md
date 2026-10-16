@@ -9,6 +9,9 @@
 <br>
 
 ```bash
+
+print("Hello World")
+
 $ whoami
 paitondev
 
