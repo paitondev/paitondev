@@ -30,6 +30,7 @@ Uptime:    с первого "Hello World"
 
 $ ls ~/interests
 vibecoding/   ai-tools/   new-tech/   experiments/   side-projects/
+
 ```
 
 <br>
