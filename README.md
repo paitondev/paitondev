@@ -20,11 +20,13 @@ $ cat about.txt
 $ neofetch
 paitondev@github
 
+
 OS:        Vibes 1.0
 Editor:    VS Code
 Language:  Python
 Mood:      в потоке
-Uptime:    с первого "hello world"
+Uptime:    с первого "Hello World"
+
 
 $ ls ~/interests
 vibecoding/   ai-tools/   new-tech/   experiments/   side-projects/
