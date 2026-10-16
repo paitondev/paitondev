@@ -19,6 +19,7 @@ $ cat about.txt
 
 $ neofetch
 paitondev@github
+
 ----------------
 OS:        Vibes 1.0
 Editor:    VS Code
