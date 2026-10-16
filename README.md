@@ -28,7 +28,7 @@ OS:        Vibes 1.0
 Editor:    VS Code
 Language:  Python
 Mood:      в потоке
-Uptime:    с первого "Hello World"
+Uptime:    с первого запуска
 
 
 $ ls ~/interests
