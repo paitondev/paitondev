@@ -25,6 +25,7 @@ Editor:    VS Code
 Language:  Python
 Mood:      в потоке
 Uptime:    с первого "hello world"
+----------------
 
 $ ls ~/interests
 vibecoding/   ai-tools/   new-tech/   experiments/   side-projects/
