@@ -8,35 +8,6 @@
 
 <br>
 
-```bash
-
-print("Hello World")
-
-$ whoami
-paitondev
-
-$ cat about.txt
-Увлекаюсь вайбкодингом и новыми технологиями.
-Люблю превращать идеи в рабочие вещи за один вечер.
-Если вышел новый инструмент — я уже его тестирую.
-
-$ neofetch
-paitondev@github
-
-
-OS:        Vibes 1.0
-Editor:    VS Code
-Language:  Python
-Mood:      в потоке
-Uptime:    с первого запуска
-
-
-$ ls ~/interests
-vibecoding/   ai-tools/   new-tech/   experiments/   side-projects/
-
-```
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,lua,github,vscode&theme=dark" alt="stack" />
